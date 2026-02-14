@@ -12,7 +12,8 @@
     "start-recording": "Запись экрана (начать запись)",
     "started": "Запись началась.",
     "stop-recording": "Запись экрана (остановить запись)",
-    "stopping": "Остановка записи…"
+    "stopping": "Остановка записи…",
+    "monitor-not-found": "Could not detect the monitor under cursor."
   },
   "name": "Запись Экрана",
   "settings": {
@@ -63,7 +64,8 @@
       "source-desc": "Рекомендуется Portal, если появляются артефакты попробуйте Экран",
       "sources-portal": "Портал",
       "sources-screen": "Экран",
-      "title": "Настройки Видео"
+      "title": "Настройки Видео",
+      "sources-focused-monitor": "Focused monitor (Hyprland)"
     }
   }
 }

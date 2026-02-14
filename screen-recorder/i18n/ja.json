@@ -13,7 +13,8 @@
     "started": "録画を開始しました。",
     "stop-recording": "画面録画（停止）",
     "stopping": "録画を停止しています…",
-    "open-file": "ファイルを開く"
+    "open-file": "ファイルを開く",
+    "monitor-not-found": "Could not detect the monitor under cursor."
   },
   "name": "画面レコーダー",
   "settings": {
@@ -66,7 +67,8 @@
       "source-desc": "ポータルが推奨されます。アーティファクトが発生する場合は「スクリーン」を試してください",
       "sources-portal": "ポータル",
       "sources-screen": "スクリーン",
-      "title": "ビデオ設定"
+      "title": "ビデオ設定",
+      "sources-focused-monitor": "Focused monitor (Hyprland)"
     }
   }
 }

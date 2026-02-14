@@ -12,7 +12,8 @@
     "start-recording": "Qeydkerê ekranê (dest bi qeydkirinê bike)",
     "started": "Qeydkirin dest pê kir.",
     "stop-recording": "Tomarkera dîmenderê (tomarkirinê bide sekinandin)",
-    "stopping": "Qeydkirin radiweste…"
+    "stopping": "Qeydkirin radiweste…",
+    "monitor-not-found": "Could not detect the monitor under cursor."
   },
   "name": "Qeydkerê Ekranê",
   "settings": {
@@ -63,7 +64,8 @@
       "source-desc": "Portal tê pêşniyarkirin, eger tu artefaktan bibînî Screen biceribîne",
       "sources-portal": "Portal",
       "sources-screen": "Dîmende",
-      "title": "Mîhengên Vîdeoyê"
+      "title": "Mîhengên Vîdeoyê",
+      "sources-focused-monitor": "Focused monitor (Hyprland)"
     }
   }
 }

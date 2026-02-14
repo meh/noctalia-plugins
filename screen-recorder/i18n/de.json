@@ -13,7 +13,8 @@
     "started": "Aufnahme gestartet.",
     "stop-recording": "Bildschirmaufnahme (Aufnahme stoppen)",
     "stopping": "Aufnahme stoppen…",
-    "open-file": "Datei öffnen"
+    "open-file": "Datei öffnen",
+    "monitor-not-found": "Could not detect the monitor under cursor."
   },
   "name": "Bildschirmrekorder",
   "settings": {
@@ -66,7 +67,8 @@
       "source-desc": "Portal wird empfohlen, bei Artefakten versuchen Sie Bildschirm",
       "sources-portal": "Portal",
       "sources-screen": "Bildschirm",
-      "title": "Videoeinstellungen"
+      "title": "Videoeinstellungen",
+      "sources-focused-monitor": "Focused monitor (Hyprland)"
     }
   }
 }

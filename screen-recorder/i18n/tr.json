@@ -12,7 +12,8 @@
     "start-recording": "Ekran kaydedici (kayda başla)",
     "started": "Kayıt başladı.",
     "stop-recording": "Ekran kaydedici (kaydı durdur)",
-    "stopping": "Kaydı durdurma…"
+    "stopping": "Kaydı durdurma…",
+    "monitor-not-found": "Could not detect the monitor under cursor."
   },
   "name": "Ekran Kaydedici",
   "settings": {
@@ -63,7 +64,8 @@
       "source-desc": "Portal önerilir, artefaktlar alırsanız Ekran'ı deneyin",
       "sources-portal": "Portal",
       "sources-screen": "Ekran",
-      "title": "Video Ayarları"
+      "title": "Video Ayarları",
+      "sources-focused-monitor": "Focused monitor (Hyprland)"
     }
   }
 }

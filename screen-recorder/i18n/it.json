@@ -12,7 +12,8 @@
     "start-recording": "P錄影 (開始錄影)",
     "started": "Aufnahme gestartet.",
     "stop-recording": "Skjáupptökutæki (hætta upptöku)",
-    "stopping": "Nagpapatigil ng pagrekord..."
+    "stopping": "Nagpapatigil ng pagrekord...",
+    "monitor-not-found": "Could not detect the monitor under cursor."
   },
   "name": "Registratore Schermo",
   "settings": {
@@ -63,7 +64,8 @@
       "source-desc": "Portal è consigliato, se si ottengono artefatti prova Schermo",
       "sources-portal": "Portale",
       "sources-screen": "Skjerm",
-      "title": "Impostazioni Video"
+      "title": "Impostazioni Video",
+      "sources-focused-monitor": "Focused monitor (Hyprland)"
     }
   }
 }

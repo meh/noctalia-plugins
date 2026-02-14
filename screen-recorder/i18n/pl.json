@@ -12,7 +12,8 @@
     "start-recording": "Rejestrator ekranu (rozpocznij nagrywanie)",
     "started": "Rozpoczęto nagrywanie.",
     "stop-recording": "Rejestrator ekranu (zatrzymaj nagrywanie)",
-    "stopping": "Zatrzymywanie nagrywania…"
+    "stopping": "Zatrzymywanie nagrywania…",
+    "monitor-not-found": "Could not detect the monitor under cursor."
   },
   "name": "Rejestrator ekranu",
   "settings": {
@@ -63,7 +64,8 @@
       "source-desc": "Zalecany jest Portal, jeśli występują artefakty, spróbuj opcji Ekran",
       "sources-portal": "Portal",
       "sources-screen": "Ekran",
-      "title": "Ustawienia wideo"
+      "title": "Ustawienia wideo",
+      "sources-focused-monitor": "Focused monitor (Hyprland)"
     }
   }
 }

@@ -12,7 +12,8 @@
     "start-recording": "Képernyőrögzítő (felvétel indítása)",
     "started": "A felvétel elindult.",
     "stop-recording": "Képernyőfelvevő (felvétel leállítása)",
-    "stopping": "A felvétel leállítása…"
+    "stopping": "A felvétel leállítása…",
+    "monitor-not-found": "Could not detect the monitor under cursor."
   },
   "name": "Képernyőfelvevő",
   "settings": {
@@ -63,7 +64,8 @@
       "source-desc": "A Portal ajánlott, ha hibákat tapasztalsz, próbáld a Screen-t",
       "sources-portal": "Portál",
       "sources-screen": "Képernyő",
-      "title": "Videóbeállítások"
+      "title": "Videóbeállítások",
+      "sources-focused-monitor": "Focused monitor (Hyprland)"
     }
   }
 }

@@ -12,7 +12,8 @@
     "start-recording": "Grabador de pantalla (empezar a grabar)",
     "started": "Grabación iniciada.",
     "stop-recording": "Grabador de pantalla (detener grabación)",
-    "stopping": "Deteniendo la grabación…"
+    "stopping": "Deteniendo la grabación…",
+    "monitor-not-found": "Could not detect the monitor under cursor."
   },
   "name": "Grabadora de Pantalla",
   "settings": {
@@ -63,7 +64,8 @@
       "source-desc": "Se recomienda Portal, si obtiene artefactos intente Pantalla",
       "sources-portal": "Portal",
       "sources-screen": "Pantalla",
-      "title": "Configuración de Video"
+      "title": "Configuración de Video",
+      "sources-focused-monitor": "Focused monitor (Hyprland)"
     }
   }
 }

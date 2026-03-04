@@ -523,6 +523,23 @@
       "lastUpdated": "2026-02-22T10:29:46+02:00"
     },
     {
+      "id": "niri-auto-tile",
+      "name": "Auto-Tile",
+      "version": "1.2.0",
+      "official": false,
+      "author": "pir0c0pter0",
+      "description": "Automatically redistributes niri column widths evenly when windows open or close",
+      "repository": "https://github.com/noctalia-dev/noctalia-plugins",
+      "minNoctaliaVersion": "4.4.0",
+      "license": "MIT",
+      "tags": [
+        "Bar",
+        "Utility",
+        "System"
+      ],
+      "lastUpdated": "2026-02-19T19:50:23-03:00"
+    },
+    {
       "id": "niri-overview-launcher",
       "name": "Niri Overview Launcher",
       "version": "1.0.0",

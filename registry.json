@@ -118,6 +118,20 @@
       "lastUpdated": "2026-02-23T20:48:07-05:00"
     },
     {
+      "id": "coin-flip",
+      "name": "Coin Flipper",
+      "version": "1.1.0",
+      "official": false,
+      "author": "DanisDeveloper",
+      "description": "Simple bar widget with notification about result",
+      "repository": "https://github.com/noctalia-dev/noctalia-plugins",
+      "license": "MIT",
+      "tags": [
+        "Bar"
+      ],
+      "lastUpdated": "2026-03-12T01:25:17+03:00"
+    },
+    {
       "id": "color-scheme-creator",
       "name": "Color Scheme Creator",
       "version": "1.0.1",

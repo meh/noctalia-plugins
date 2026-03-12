@@ -62,28 +62,28 @@ Item {
 
         model: [
             {
-                "label": root.pluginApi?.tr("barWidget.contextMenu.panel") || "Panel",
+                "label": root.pluginApi?.tr("barWidget.contextMenu.panel"),
                 "action": "panel",
                 "icon": "rectangle"
             },
             {
                 "label": root.enabled ?
-                    root.pluginApi?.tr("barWidget.contextMenu.disable") || "Disable" :
-                    root.pluginApi?.tr("barWidget.contextMenu.enable")  || "Enable",
+                    root.pluginApi?.tr("barWidget.contextMenu.disable") :
+                    root.pluginApi?.tr("barWidget.contextMenu.enable"),
                 "action": root.enabled ? "disable" : "enable",
                 "icon": "power"
             },
             {
                 "label": root.isPlaying ? 
-                    root.pluginApi?.tr("barWidget.contextMenu.pause") || "Pause" : 
-                    root.pluginApi?.tr("barWidget.contextMenu.play")  || "Play",
+                    root.pluginApi?.tr("barWidget.contextMenu.pause") :
+                    root.pluginApi?.tr("barWidget.contextMenu.play"),
                 "action": root.isPlaying ? "pause" : "play",
                 "icon": root.isPlaying ? "media-pause" : "media-play"
             },
             {
                 "label": root.isMuted ? 
-                    root.pluginApi?.tr("barWidget.contextMenu.unmute") || "Unmute" : 
-                    root.pluginApi?.tr("barWidget.contextMenu.mute")   || "Mute",
+                    root.pluginApi?.tr("barWidget.contextMenu.unmute") :
+                    root.pluginApi?.tr("barWidget.contextMenu.mute"),
                 "action": root.isMuted ? "unmute" : "mute",
                 "icon": root.isMuted ? "volume-high" : "volume-mute"
             },
@@ -139,7 +139,7 @@ Item {
         id: pill
 
         screen: root.screen
-        tooltipText: root.pluginApi?.tr("barWidget.tooltip") || "Open the video wallpaper manager."
+        tooltipText: root.pluginApi?.tr("barWidget.tooltip")
 
         icon: "wallpaper-selector"
 

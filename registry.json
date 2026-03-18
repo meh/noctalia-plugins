@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "jobs",
+      "name": "Jobs",
+      "version": "0.1.0",
+      "official": false,
+      "author": "meh",
+      "description": "Adds a bar widget to track jobs.",
+      "repository": "https://github.com/meh/noctalia-plugins",
+      "license": "WTFPL",
+      "tags": [
+        "Desktop",
+        "Jobs"
+      ],
+      "lastUpdated": "2026-02-04T23:08:01-07:00"
+    }
+  ]
+}
